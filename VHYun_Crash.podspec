@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name            = "VHYun_Crash"
-  s.version         = "1.0.0"
+  s.version         = "1.0.1"
   s.author          = { "guochao" => "chao.guo@vhall.com" }
   s.license         = { :type => "MIT", :file => "LICENSE" }
   s.homepage        = 'https://www.vhall.com'
